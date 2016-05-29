@@ -1,0 +1,26 @@
+QUESTIONS
+
+Runtime
+1) The workload would be the length of the list
+2) 1, logn, n, nlogn, n^2, 2^n
+
+Stacks
+1) 1. Stack, 2. Queue, 3. What?
+2) Print queue, task list
+3) Undo, back button
+
+Linked Lists
+1) The nodes are apple, berry, and cherry. The head is apple, the tail is cherry. 
+The data is the string of the fruit, and the pointer is the arrow. 
+2) Singly linked lists only point forward, whereas a doubly linked list points
+in both forward and backwards directions along the list. 
+3) Keeping track of the tail allows appending to happen regardless of the other
+data in the list beforehand. It doesn't have to iterate through to find the end
+and the runtime will be faster. 
+
+Trees
+1) Food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burrito!
+2) Food, Mexican, enchiladas, tacos, burrito, Indian, saag, tikka masala (yum),
+Italian, pizza, Sicilian, New York-style, Chicago-style! 
+3) Bianary search trees only have two branches from each node, and one child is 
+always 'less than' the parent node, and the other is always 'greater than'.
